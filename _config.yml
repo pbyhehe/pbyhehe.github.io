@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: pig
+title: 骑猪少年去游荡
 subtitle:
 description:
 author: pbyhehe
@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 8
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, pig"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
