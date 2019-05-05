@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 骑猪少年去游荡
+title: 开飞机的佩奇
 subtitle:
 description:
 author: pbyhehe
@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /avatar/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
